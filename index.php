@@ -18,4 +18,8 @@ $router = new Router();
 $router->run();
 
 
+/* Проверка
+кода
+*/
+
 ?>
